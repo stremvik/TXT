@@ -1,0 +1,10 @@
+Bug report	- Summary
+            - Project
+            - Component
+						- Version
+            - Severity
+            - Priority                                               
+            - Steps to reproduce
+            - Actual result
+            - Expected result
+            - Additional information
