@@ -1,7 +1,7 @@
-Bug report	- Summary
+Bug report  - Summary
             - Project
             - Component
-						- Version
+            - Version
             - Severity
             - Priority                                               
             - Steps to reproduce
