@@ -1,0 +1,6 @@
+Course`s skills	- JSON									        - XML
+                - SQL
+		- Postman
+		- Dev Tools
+		- Charles
+		- Fiddler
