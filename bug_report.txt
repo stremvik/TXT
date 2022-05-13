@@ -1,10 +1,19 @@
-Bug report  - Summary
-            - Project
-            - Component
-            - Version
-            - Severity
-            - Priority                                               
-            - Steps to reproduce
-            - Actual result
-            - Expected result
-            - Additional information
+Bug_report
+            ID - BUG-002
+	Summary - Chat-user cannot rename group conversation
+            Project - User chat
+            Component - None
+            Version - 1.0
+            Severity - Medium
+            Priority- Hight
+            Steps to reproduce:  
+                        Step 1 - Log in
+                        Step 2 - Open chat dialog 
+                        Step 3  - Click on the 'Setting' buttom
+                        Step 4 - Click 'Add user'
+                        Step 5 - Add any user to group conversation
+                        Step 6 - Try to rename this group conversation
+            Actual result - The buttom 'Rename conversation' is desable
+            Expected result - User can rename group conversation
+            Additional information - None
+  
