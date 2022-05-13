@@ -1,6 +1,6 @@
 Bug_report
             ID - BUG-002
-	Summary - Chat-user cannot rename group conversation
+	    Summary - Chat-user cannot rename group conversation
             Project - User chat
             Component - None
             Version - 1.0
